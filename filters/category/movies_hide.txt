@@ -83,3 +83,6 @@ movie365-hd.com##div[class^="ad-"]
 movie365-hd.com##div[class^="ad_"]
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
+
+! 2021-01-17 https://movie2ufree.com
+movie2ufree.com##.ad-float
